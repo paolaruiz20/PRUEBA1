@@ -1,0 +1,5 @@
+git clone https://github.com/usuario/nombre-del-repo.git
+cd nombre-del-repo
+git add .
+git commit -m "Mensaje que describe los cambios"
+git push origin main
