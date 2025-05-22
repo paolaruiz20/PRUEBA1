@@ -1,0 +1,8 @@
+git branch
+git branch nombre-de-la-rama
+git checkout nombre-de-la-rama
+git checkout -b nombre-de-la-rama
+git push origin nombre-de-la-rama
+git branch -r
+git branch -d 
+git rama   -d nombre-de-la-rama
