@@ -1,0 +1,5 @@
+clon git htpps://github.com/usuario/nombre-del-repo.git
+cd nombre-del-repo
+añadir git .
+git commit -m "Mensaje que describe los cambios"
+git push origen principal
