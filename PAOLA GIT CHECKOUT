@@ -1,0 +1,6 @@
+git clone https://github.com/usuario/repositorio.git
+cd repositorio
+git branch -a
+git checkout nombre-de-la-rama
+git checkout -b nueva-rama
+git push origin nueva-rama
